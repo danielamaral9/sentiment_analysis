@@ -51,8 +51,8 @@ data/raw/IMDB_Dataset.csv
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/danielamaral9/sentiment-analysis
-cd sentiment-analysis
+git clone https://github.com/danielamaral9/sentiment_analysis
+cd sentiment_analysis
 ```
 
 ### 2. Crie e ative um ambiente virtual
@@ -120,7 +120,7 @@ O projeto adota:
 ```
 Ribeiro Amaral, Daniel (2025). 
 Comparação entre Modelos Clássicos e Transformers na Análise de Sentimentos.
-Repositório GitHub: https://github.com/danielamaral9/sentiment-analysis
+Repositório GitHub: https://github.com/danielamaral9/sentiment_analysis
 ```
 
 ---
@@ -130,3 +130,4 @@ Repositório GitHub: https://github.com/danielamaral9/sentiment-analysis
 Pull requests e Issues são bem-vindos.
 
 ---
+
